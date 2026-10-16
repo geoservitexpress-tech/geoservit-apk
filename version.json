@@ -1,1 +1,1 @@
-{"version":"1.4.0","obligatoria":false,"notas":"Perfil con foto y datos editables, logo de la tienda en la guía, Bogotá ya elegida al crear pedidos, la guía ya no pide foto y los repartidores pueden tomar un pedido escaneando su QR en emergencias."}
+{"version":"1.5.0","obligatoria":false,"notas":"Escanea el QR de tu pedido y avanza al siguiente paso: recibir, salir a entregar o entregar. Incluye perfil con foto, logo de la tienda en la guía y tomar pedidos por QR en emergencias."}
