@@ -1,1 +1,1 @@
-{"version":"1.2.0","obligatoria":false,"notas":"Editar pedido, guías en lote, escanear guía visible, cancelar y reabrir (supervisor), asignación del día y aviso de nuevas versiones."}
+{"version":"1.3.0","obligatoria":false,"notas":"El supervisor puede corregir pedidos en camino y el repartidor ve «Datos actualizados» en su ruta. Sesión guardada de forma segura."}
