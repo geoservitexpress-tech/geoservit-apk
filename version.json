@@ -1,1 +1,1 @@
-{"version":"1.6.0","obligatoria":false,"notas":"Al entregar: quién recibe (destinatario, guarda o familiar) con nombre y cédula, resumen del cobro y foto del comprobante si no es efectivo. Nueva sección Mis cuentas del repartidor y ganancia por entrega en el historial. Mi ruta cuenta bien los completados."}
+{"version":"1.6.1","obligatoria":false,"notas":"Supervisor y administrador: corregir el peso real y fijar el recargo por peso a mano con motivo. Desglose de la tarifa en el detalle del pedido. Buscar guías escribiendo solo un pedazo (sin guiones)."}
