@@ -1,1 +1,1 @@
-{"version":"1.7.0","obligatoria":false,"notas":"Entra con tu huella o Face ID sin escribir la contraseña: actívalo después de iniciar sesión o desde Perfil. El correo y la contraseña siguen funcionando igual."}
+{"version":"1.7.1","obligatoria":false,"notas":"Entrar con huella: en Android ahora pide la huella (no el rostro) y ya no se traba el menú al activarla. Si la activaste en la 1.7.0, apágala y enciéndela de nuevo en Perfil."}
